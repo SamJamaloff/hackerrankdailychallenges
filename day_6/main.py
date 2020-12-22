@@ -11,3 +11,4 @@ for i in range(t):
             even_order = even_order+s[order]
 
     print(odd_order+" "+even_order)
+
