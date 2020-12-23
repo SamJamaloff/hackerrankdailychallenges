@@ -13,4 +13,4 @@ while True:
         else:
             print("Not found")
     except Exception as e:
-        pass
+        break
