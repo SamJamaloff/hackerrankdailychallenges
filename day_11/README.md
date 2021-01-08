@@ -1,2 +1,1 @@
-
-This is Day 10 of HackerRank 30 days challenge. The original problem is given in https://www.hackerrank.com/challenges/30-2d-arrays/problem
+This is Day 11 of HackerRank 30 days challenge. The original problem is given in https://www.hackerrank.com/challenges/30-2d-arrays/problem
