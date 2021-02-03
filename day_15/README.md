@@ -1,1 +1,1 @@
-
+This is Day 15 of HackerRank 30 days challenge. The original problem is given in https://www.hackerrank.com/challenges/30-linked-list/problem
